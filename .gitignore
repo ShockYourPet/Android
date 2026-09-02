@@ -1,0 +1,22 @@
+# Android / Gradle
+*.iml
+.gradle/
+.kotlin/
+/build
+/app/build
+/.artifacts/
+local.properties
+
+# Android Studio / IntelliJ IDE
+.idea/
+!.idea/codeStyles/
+
+# Output & Binaries
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# System
+.DS_Store
+Thumbs.db
